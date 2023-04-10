@@ -1,0 +1,2 @@
+nginx/mock_live/*
+!nginx/mock_live/jay.mp4
